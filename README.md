@@ -33,17 +33,6 @@
 
 ---
 
-## `$ env | grep NYRAX`
-
-- 🔭 &nbsp;Currently working on **custom pentesting tooling & exploit scripts**
-- 🌱 &nbsp;Currently learning **Active Directory attacks & malware analysis**
-- 👯 &nbsp;Open to collaborating on **CTF teams & red team projects**
-- 🧠 &nbsp;Ask me about **ethical hacking, web pentesting, or scripting**
-- 💬 &nbsp;Reach me on **Discord: nyrax**
-- ⚡ &nbsp;Fun fact: I break things so others don't have to
-
----
-
 ## `$ ls -la /skills`
 
 ### 🛡️ Cybersecurity
@@ -57,11 +46,11 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🌐 Web & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -73,8 +62,8 @@
 ### 🛠️ Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -110,7 +99,7 @@
 
 ```
 [*] Web Application Pentesting
-[*] Network Reconnaissance & Enumeration  
+[*] Network Reconnaissance & Enumeration
 [*] CTF Challenges & Wargames
 [*] Custom Security Tooling (Python/Bash)
 [*] Vulnerability Research
