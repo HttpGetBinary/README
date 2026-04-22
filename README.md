@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-███╗   ██╗██╗   ██╗██████╗  █████╗ ██╗  ██╗
-████╗  ██║╚██╗ ██╔╝██╔══██╗██╔══██╗╚██╗██╔╝
-██╔██╗ ██║ ╚████╔╝ ██████╔╝███████║ ╚███╔╝ 
-██║╚██╗██║  ╚██╔╝  ██╔══██╗██╔══██║ ██╔██╗ 
-██║ ╚████║   ██║   ██║  ██║██║  ██║██╔╝ ██╗
-╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Penetration+Tester;Full+Stack+Developer+%7C+5%2B+yrs;Cybersecurity+%7C+3%2B+yrs;Breaking+things+to+make+them+safer.)](https://git.io/typing-svg)
 
